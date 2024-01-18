@@ -1,0 +1,12 @@
+.externo{
+   font-family: Inconsolata;
+}
+
+
+@font-face{
+	font-family:Long Cang ;
+	src: url(../font/LongCang-Regular.ttf);
+}
+.servidor{
+ font-family: Long Cang;
+}
